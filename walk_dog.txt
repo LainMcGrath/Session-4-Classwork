@@ -7,6 +7,7 @@
 2. Find dog walking supplies
   2.1. Find leash
   2.2. Find poop bags
+  2.3. Find treats
 3. Walk dog
   3.1. Walk around
   3.2. Control the dog
